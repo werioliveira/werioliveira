@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i'm Weri Oliveira, i have 24 years and recently finished my graduation on Analysis and Systems Development<br>i know a little from Javascript, like NodeJS, React, NextJS<br>i can do many things if you need, i can  learn any language if need<br>i'm not working on nothing, <br>i'm searching any place to do my best if you need someone what know a little javascript or need programmer for do anything  please talk with me
+Hi i'm Weri Oliveira, i have 25 years and recently finished my graduation on Analysis and Systems Development<br>i know a little from Javascript, like NodeJS, React, NextJS<br>i can do many things if you need, i can  learn any language if need<br>i'm not working on nothing, <br>i'm searching any place to do my best if you need someone what know a little javascript or need programmer for do anything  please talk with me
 
 
 ## 🌐 Socials:
